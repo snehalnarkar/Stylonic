@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "966373509302",
+    "project_id": "stylonic-1f52a",
+    "storage_bucket": "stylonic-1f52a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966373509302:android:ca0f1d02ddbb982dab7e17",
+        "android_client_info": {
+          "package_name": "com.example.stylonic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966373509302-v5ds3froujb2mpl6jb5tjkssnod8g2p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB88MulW1Qrk-a0UbL3C0P2-pijh7yWlCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966373509302-v5ds3froujb2mpl6jb5tjkssnod8g2p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
